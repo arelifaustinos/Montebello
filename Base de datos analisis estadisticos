@@ -1,0 +1,316 @@
+Clase	Orden	Familia	Especie	LI 	SL	CH 	BL	BA	EC	ES 	EN 	AT	SJ	MB	CL	PO 	KI 	TZ 	PA 	YA 	DL	LA	LM	YN	GA	CU	CZ	CA	CP	CT	TR	RP	CC	AK
+Actinopterygii	Cichliformes 	Cichlidae	Theraps intermedius 	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Theraps irregularis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Theraps lentiginosus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Trichromis salvini 	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Thorichthys meeki	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	Cichliformes 	Cichlidae	Oreochromis aureus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Oreochromis mossambicus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Oscura heterospila	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Cichlasoma hartwegi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Actinopterygii	Cichliformes 	Cichlidae	Cichlasoma intermedium	0	1	0	0	0	0	0	1	0	0	1	1	1	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	1	1	0
+Actinopterygii	Cichliformes 	Cichlidae	Petenia splendida	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Profundulidae	Profundulus punctatus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Profundulidae	Tlaloc labialis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	1	0
+Actinopterygii	 Cyprinodontiformes	Profundulidae	 Tlaloc candalarius	0	0	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Profundulidae	Tlaloc hildebrandi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poecilia sphenops	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poecilia mexicana 	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poecilia reticulata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poecilia sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poeciliopsis sp.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poeciliopsis pleurospilus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poeciliopsis fasciata	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poeciliopsis gracilis	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Poeciliopsis hnilickai	0	0	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Xenodexia ctenolepis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Poeciliidae	Xiphoporus clemenciae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+Actinopterygii	 Cyprinodontiformes	Rivulidae	Cynodonichthys tenuis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Salmoniformes	 Salmonidae	Oncorhynchus mykiss X6	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Siluriformes	Heptapteridae	Rhamdia parryi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Actinopterygii	Siluriformes	Heptapteridae	Rhamdia guatemalensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Actinopterygii	Siluriformes	Heptapteridae	Rhamdia laticauda	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Actinopterygii	Cypriniformes	"	Cyprinidae"	Ctenopharyngodon idella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+Actinopterygii	Cypriniformes	"	Cyprinidae"	Cyprinus carpio 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+Actinopterygii	Characiformes	Bryconidae	Brycon guatemalensis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Characiformes	Characidae	Astyanax aeneus	0	1	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	1
+Actinopterygii	Cichliformes	Cichlidae	Paraneetroplus sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	Cichliformes	Cichlidae	Thorichthys helleri	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	"	Perciformes"	Centrarchidae	Micropterus salmoides	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Actinopterygii	"	Atheriniformes"	"	Atherinopsidae"	Atherinella alvarezi	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Actinopterygii	"	Atheriniformes"	"	Atherinopsidae"	Atherinella sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Caudata	 Plethodontidae	"Bolitoglossa
+rufescens X1 X9"	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Caudata	 Plethodontidae	Bolitoglossa hartwegi	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Caudata	 Plethodontidae	Bolitoglossa mexicana	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Caudata	 Plethodontidae	Bolitoglossa stuarti	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Bufonidae	Incilius aurarius 	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Bufonidae	Incilius valliceps	0	1	0	0	1	1	0	0	1	0	1	1	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+Amphibia	Anura	Bufonidae	Rhinella horribilis	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Bufonidae	Incilius macrocristatus 	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Bufonidae	Incilius campbelli	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Ranidae	Rana forreri	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Ranidae	Rana brownorum 	0	1	0	0	1	1	0	0	0	0	1	1	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Ranidae	Rana vaillanti	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Amphibia	Anura	Ranidae	Rana pipiens	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Ranidae	Rana berlandieri	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	"	Craugastoridae"	Craugastor rugolosus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	"	Craugastoridae"	Craugastor stuarti	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+Amphibia	Anura	"	Craugastoridae"	Craugastor brocchi	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Hylidae	Tlalocohyla loquax	0	1	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Hylidae	Hyla walkeri	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Hylidae	Scinax staufferi	0	1	0	0	1	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Amphibia	Anura	Hylidae	Smilisca baudinii	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Dactyloidae	Anolis anisolepis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Dactyloidae	Anolis petersii	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Dactyloidae	Anolis tropidonotus	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Dactyloidae	Anolis uniformis	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Viperidae	Bothriechis aurifer	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Geophis carinosus	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Thamnophis proximus	0	1	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Ninia sebae	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Rhadinaea decorata 	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Rhadinella kinkelini	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Colubridae	Scaphiodontophis annulatus	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Phrynosomatidae	Sceloporus taeniocnemis	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Squamata	Phrynosomatidae	Sceloporus variabilis	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Testudines	Kinosternidae	Dermatemys mawii	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Testudines	Kinosternidae	Trachemys venusta	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Testudines	Kinosternidae	Staurotypus triporcatus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Reptilia	Testudines	Kinosternidae	Kinosternon leucostomum	0	0	0	0	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Palaemonidae	Cryphiops (Macrobrachium) luscus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Palaemonidae	Cryphiops (Bithynops) perspicax	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Palaemonidae	Macrocrachium sp. (afin a Bithynops perspicax)	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+Malacostraca	Decapoda	Palaemonidae	Cryphiops sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Pseudothelphusidae	Phrygiopilus sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Pseudothelphusidae	Phrygiopilus montebelloensis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Pseudothelphusidae	Raddaus afin a bocourti	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0
+Malacostraca	Decapoda	Pseudothelphusidae	Raddaus bocourti 	0	0	0	0	0	0	1	0	0	0	0	0	1	0	1	0	0	1	0	0	0	1	0	0	0	0	0	0	1	1	1
+Malacostraca	Decapoda	Pseudothelphusidae	Tehuana lamothei 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Pseudothelphusidae	Typhlopseudothelphusa mociñoi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Malacostraca	Decapoda	Portunidae	Callinectes arcuatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+Malacostraca	Decapoda	Cambaridae	Procambarus mirandai 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Cambaridae	Procambarus pilosimanus 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Malacostraca	Decapoda	Cambaridae	Procambarus afin a pilosomanus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Decapoda	Cambaridae	Procambarus llamasi	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+Malacostraca	Decapoda	Cambaridae	Procambarus sp. 	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0
+Malacostraca	Amphipoda	Talitridae	Chelorchestia 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Malacostraca	Amphipoda	Hyalellidae	Hyalella sp.	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	0	0	1	0	1	1	0	0	0	1	0	0	0	0	1	0
+Malacostraca	Isopoda	Trichoniscidae	Brackenridgia acostai	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Mastigodiaptomus maya	0	1	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Mastigodiaptomus nesus	0	0	1	1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Mastigodiaptomus montezumae	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Aglaodiaptomus clavipes	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	M. suarezmoralesi	0	0	0	0	0	0	0	0	0	1	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Arctodiaptomus dorsalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	Leptodiaptomus cuauhtemoci	0	1	0	1	1	1	0	1	1	1	1	1	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Calanoida	Diaptomidae	L. mexicanus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Apocyclops panamensis	0	1	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Diacyclops puuc	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Mesocyclops aspericornis	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. brasilianus	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. edax	0	0	0	1	0	1	0	0	1	0	0	0	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. longisetus	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. pescei	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. thermocyclopoides	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Microcyclops ceibaensis	0	1	1	0	1	1	1	1	0	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. dubitabilis	0	0	0	0	0	0	0	0	1	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Thermocyclops tenui	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	T. inversus	0	1	1	0	1	1	1	0	1	1	1	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	T. crasssus	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Ectocyclops sp	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Eucyclops tziscao	0	0	1	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Macrocyclops albidus	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	M. fuscus	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hexanauplia	Cyclopoida	Cyclopidae	Tropocyclops prasinus	1	0	0	0	1	0	0	0	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cyclopoida	Cyclopidae	Diaphanosoma sp.	0	0	0	0	1	1	1	1	1	1	1	1	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	Diaphanosoma cf birgei	0	0	1	0	1	1	0	0	1	1	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	Daphnia ambigua	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	D. cheraphila	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	D. cf galeata	0	0	0	0	0	0	0	0	0	1	0	0	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	D. gessneri	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	D. cf hyalina	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	D. obtusa	0	1	0	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	Ceriodaphnia dubia	0	1	1	1	1	1	0	1	1	1	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Sididae	C. lacustris	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Moinidae	Moina micrura	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Moinidae	Moinodaphnia sp	0	1	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Bosminidae	Eubosmina tubicen	0	1	1	1	1	1	1	0	1	1	0	1	1	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Cladocera	Bosminidae	Bosmina sp.	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Ilyocryptidae	Ilyocryptus gouldeni 	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Ilyocryptidae	Ilyocryptus sp.	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Macrothricidae	Macrothrix	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Chydoridae	Alona	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Chydoridae	Camptocercus	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Branchiopoda	Anomopoda	Chydoridae	Leydigia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Candonidae	Keysercypria sp.	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Candonidae	Cypria 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Candonidae	Pseudocandona antilliana	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	 Darwinulidae	Darwinula stevensoni	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	 Darwinulidae	Vestalenula sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Limnocytheridae	Cytheridella ilosvayi	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Cyprididae	Cypridopsis vidua	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Ostracoda	Podocopida	Trachyleberididae	Paracythereis opesta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachnida	Araneae	Araneidae	Micrathena tziscao	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachnida	Trombidiformes	Aturidae	Kongsbergia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachnida	Trombidiformes	Limnesiidae	Limnesia	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Arachnida	Trombidiformes	Unionicolidae	koenikea 	0	0	0	0	1	0	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Hexarthridae	Hexarthra fennica	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Hexarthridae	Hexarthra intermedia	0	0	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Testudinellidae	Testudinella patina	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Testudinellidae	Ptygura sp.	0	0	0	0	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Trochosphaeridae	Filinia longiseta	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	Flosculariaceae	Trochosphaeridae	F. terminalis	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Lepadellidae	Lepadella patela	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Notommatidae	Cephalodella gibba	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Asplanchnidae	Asplanchna girodi	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	Brachionus angularis	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	B. bidentatus	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	B. calyciflorus	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	B. havanaensis	1	0	1	1	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	B. rubens	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	Keratella americana	1	0	1	1	1	1	0	0	0	0	0	1	0	1	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	K. cochlearis	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	K. tropica	1	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	Plationus patulus	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Brachionidae	Platyas quadricornis	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Lecanidae	Lecane bulla	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Lecanidae	L. papuana	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	 Synchaetidae	Polyarthra vulgaris	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	 Synchaetidae	Synchaeta oblonga	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Monogononta	 Ploima	Trichotriidae	Macrochaetus sp	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Secernentea	Ascaridida	Anisakidae	Contracaecum sp.	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Cestoda	Tetraphyllidea	Onchobothriidae	Acanthobothrium santarosaliense	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Enoplea	Dorylaimida	Dorylaimidae	Laimydorus 	0	0	0	0	0	1	1	0	0	0	0	1	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Arhynchobdellida	Erpobdellidae	Erpobdella triannulata	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Haplotaxidae	Pelodrilus 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Haplotaxidae	Haplotaxida 	0	0	0	0	0	0	1	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Naididae	Chaetogaster 	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Naididae	Homochaeta 	0	0	0	1	1	1	0	0	0	0	0	1	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Naididae	Naididae 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Tubificidae	Pristina	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Tubificidae	Paranadrilus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Tubificidae	Aulodrilus 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Clitellata	Haplotaxida	Tubificidae	Limnodrilus 	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	Architaenioglossa 	Ampullariidae	Pomacea flagellata	0	1	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	Caenogastropoda	Bithyniidae 	Bithynia sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Gastropoda	Caenogastropoda	Pachychilidae	Pachychilus indiorum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	Sorbeoconcha	Hydrobiidae	Hydrobiidae	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+Gastropoda	Gasteropoda	Ancylidae 	Ancylidae sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	hygrophila	planorbidae	Menetus sp. 	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Gastropoda	hygrophila	planorbidae	Planorbidae sp.	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	hygrophila	planorbidae	"	Helisoma sp."	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Gastropoda	hygrophila	Physidae	Physa sp.	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	1	0
+"	Rhabditophora"	"	Tricladida"	"	Dugesiidae"	Girardia sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+"	Entognatha"	entomobryomorpha	Entomobryidae	Americabrya arida	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Entomobryidae	Lepidocyrtus lanuginosus	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Entomobryidae	Willowsia mexicana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Isotomidae	Ballistura libra	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Isotomidae	Clavisotoma laticaudata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Isotomidae	Desoria trispinata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Isotomidae	Proisotoma minuta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Paronellidae	Salina cf. beta	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	entomobryomorpha	Tomoceridae	Tomocerus 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	"	Poduromorpha"	"	Hypogastruridae"	Willemia mexicana	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	Poduromorpha	Hypogastruridae	Ceratophysella sigillata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	Poduromorpha	Hypogastruridae	 Ceratophysella boletivora	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	Poduromorpha	Hypogastruridae	Ceratophysella sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+"	Entognatha"	Shymphypleona	Sminthurididae	Sminthurides 	0	1	0	1	0	0	0	1	0	0	0	1	0	1	1	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Noteridae	Hydrocanthus sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Curculionidae	Theognete zapatista	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+ 	Coleoptera	Curculionidae	Tylodinus parvus	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Curculionidae	Pantoteles longimanus	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Dytiscidae	Hydrotrupes sp. 	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Dytiscidae	Megadytes sp.	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Hydrophilidae	Hydrophilus ensifer	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+Insecta	Coleoptera	Hydrophilidae	Sphaeridiinae 	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Cerambycidae	Phrynidius jonesi	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Cerambycidae	Adetus bacillarius	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Haliplidae	Haliplus alteraliplus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Scarabaeidae	Cryptocanthon montebello	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Scarabaeidae	Deltochilum Eschscholtz	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Scarabaeidae	Phyllophaga chamula	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Histeridae	Hister cavifrons	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Cicindela radians	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Notiobia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Onypterygia hoepfneri	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Onypterygia longispinis	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Bradycellus circumdatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Loxandrus elongatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Carabidae	Platynus	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Coleoptera	Lampyridae	Photuris Dejean	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Megaloptera	Corydalidae	Platyneuromus reflexus	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Megaloptera	Sialidae	Ilyobius 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Trichoptera	Psychomyiidae	Psychomyiidae sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Trichoptera	Hydroptilidae	Oxyethira sp	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Trichoptera	Hydropsychidae	Hydropsyche sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Trichoptera	Hydropsychidae	Leptonema sp. 	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Trichoptera	Polycentropodidae	Polycentropus sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Trichoptera	"	Philopotamidae"	Chimarra 	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Trichoptera	"	Philopotamidae"	Dolophilodes sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Ephemeroptera	Isonychiidae	"	Isonychia sp. "	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+Insecta	Ephemeroptera	Caenidae	Caenis sp.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Megapodagrionidae	Heteragrion alienum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Odonata	Calopterygidae	Hetaerina cruentata	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Odonata	Aeshnidae	Gynacantha sp.	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Aeshnidae	Rhionaeschna cornigera	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Lestidae	Archilestes grandis	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	Pseudoleon superbus	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	"	Libellula gaigei"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	"	Libellula herculea"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	Dythemis nigrescens	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	Brechmorhoga rapax	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Odonata	"	Libellulidae"	Erythrodiplax funerea	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	Erythrodiplax connata	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	"	Libellulidae"	Erythrodiplax umbrata	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+	Odonata	Coenagrionidae	Acanthagrion quadratum	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Coenagrionidae	Leptobasis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Coenagrionidae	Enallagma sp. 	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Coenagrionidae	Chromagrion 	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Coenagrionidae	Argia oculata	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Odonata	Coenagrionidae	Argia sp.	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Diptera	Ceratopogonidae	Probezzia	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Ceratopogonidae	Bezzia 	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Ceratopogonidae	Culicoides 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chaoboridae	Chaoborus 	0	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cardioclaudius 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Chironominae 	0	0	0	0	0	0	1	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Chironomus 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Tanytarsus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cladotanytarsus 	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cryptochironomus 	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Chironomus ochreatus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Chironomus sp.	0	0	0	0	1	1	0	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Einfeldia 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Harnischia 	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Microchironomus 	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Micropsectra 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Parachironomus sublettei	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Polypedilum 	0	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Procladius	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Rheotanytarsus 	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Virgatanytarsus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Tanypus 	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Coelotanypus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Alotanypus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cladopelma	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Paracladopelma	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cryptotendipes	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Ablabesmyia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Natarsia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Epoicocladius	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Cardiocladius	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Heterotrissocladius	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Paramerina	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Paratanytarsus	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Acricotopus	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Nilotanypus	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Robackia	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Chironomidae	Tribelos	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Diptera	Syrphidae 	Syrphidae 	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Hemiptera	 Corixidae	 Cymatia sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+Insecta	Hemiptera	Naucoridae	Ambrysus signoreti	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Hemiptera	Belostomatidae 	Belostoma sp.	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+Insecta	Hemiptera	Coreidae 	Paryphes imperialis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Insecta	Hemiptera	Notonectidae	Buenoa sp. 	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+Insecta	Hemiptera	Cicadellidae	Agalliopsis decis	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
